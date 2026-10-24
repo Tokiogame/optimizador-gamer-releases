@@ -1,0 +1,12 @@
+{
+    "version":  "0.2.1",
+    "notes":  "Panel en vivo, sección Discord, actualizaciones automáticas y obligatorias.",
+    "mandatory":  false,
+    "pub_date":  "2026-10-24T22:24:48Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEdnNlZYdEpoTTNwdTF4Um50NzMvL3B0Y3FZWk13bk02eklkaEFTZHVjNXh4VktsNXc4S0R1blNtOE5Rd2JiaFEwejF0bVkyTzgzOFYrb1JLZFdtQlZvelBycHNIRVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODgwNjg4CWZpbGU6T3B0aW1pemFkb3IgR2FtZXJfMC4yLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4xCmJNeGZPaEN2cDZqTjVXc2FHQUt6dElDeHVuL0JXMGlVRXhodmlvR2hNanVwOStrVitOZzRhd0tHMnJOWUtMa29XNWVYbC9VdVBmclAwYjl4YnZqc0RBPT0K",
+                                             "url":  "https://raw.githubusercontent.com/Tokiogame/optimizador-gamer-releases/main/OptimizadorGamer_0.2.1_x64-setup.exe"
+                                         }
+                  }
+}
