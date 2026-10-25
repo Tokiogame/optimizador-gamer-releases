@@ -1,12 +1,12 @@
 {
-    "version":  "0.2.2",
-    "notes":  "Versión de prueba de la actualización obligatoria.",
+    "version":  "0.3.0",
+    "notes":  "Ahora las keys se validan con el servidor y ves tu plan y los días que te quedan.",
     "mandatory":  true,
-    "pub_date":  "2026-10-24T22:28:19Z",
+    "pub_date":  "2026-10-25T00:02:38Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEdnNlZYdEpoTTdEaFV6U0x3d2pYZEJHZ2M3S25RVFNwWUxkL1h2VzdRd3h5WnMvZFVyejBrVjl2TGtDajZhZUMvckx4TVhnUGNIa1NpUURXUXltVERCMTVkcmVBc2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODgwODk5CWZpbGU6T3B0aW1pemFkb3IgR2FtZXJfMC4yLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4yCm1xdjdVUHBjMEhrSW1lVVVaZElkc2FjYXVZeWtNYzhwTGJBcW9tRjFPeDlKbmY2ZmJqSll6MEQvckc3Q1JFbWltSlF2V21FT2RmdXRyTmpNTmJOTUFBPT0K",
-                                             "url":  "https://raw.githubusercontent.com/Tokiogame/optimizador-gamer-releases/main/OptimizadorGamer_0.2.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEdnNlZYdEpoTTd6N2RKd0ZzQzdQcmYwajV0RjhsRVE1ZUN4ckx0ZDlnSm5QNUppMEkwRFA1dGVmRTRsMVA3NWN4bHZubHU5QTJVSHJQTlh2V085UWNFdVJRR3lSVmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODg2NTU4CWZpbGU6T3B0aW1pemFkb3IgR2FtZXJfMC4zLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4wCkNodDdLbFN6TDNxQzdTVG9HWml0Um1oSXUxejlLayt0RlQ5N3E3NHNRWVA2RllNUGhpZ1UyQ0cwbklFRmlmbmtFcmpNSWVEdW80VzJPWlczWUJmTkJBPT0K",
+                                             "url":  "https://raw.githubusercontent.com/Tokiogame/optimizador-gamer-releases/main/OptimizadorGamer_0.3.0_x64-setup.exe"
                                          }
                   }
 }
