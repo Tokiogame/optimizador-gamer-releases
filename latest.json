@@ -1,12 +1,12 @@
 {
-    "version":  "0.3.1",
-    "notes":  "Mejoras de seguridad importantes en licencias y protección del PC.",
+    "version":  "0.4.0",
+    "notes":  "Modo Gaming y Discord gratis en la prueba; Esenciales, ReShade y liberar todo en los planes de pago.",
     "mandatory":  true,
-    "pub_date":  "2026-10-25T00:39:26Z",
+    "pub_date":  "2026-10-25T01:21:31Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEdnNlZYdEpoTThjSnY2amlDOWVtRWo1dkJiZ3ZuM3ZFbi9RVGJTRGVrRnVKRUtRZmt3MGkxOUozWGJ3RXNsdmtIdU44RElaZ1lNaUlJTExwM3l6M0RCUVJwUSszY1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODg4NzY2CWZpbGU6T3B0aW1pemFkb3IgR2FtZXJfMC4zLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4xCm03WUQ0MmUrdlpXcGsyWUlKNjJLaHhKdDZtYno1TzV4R0FCNHJrZHBmUXQvcG9WUVpmQmVyTGRwaHltTTcydmxFU2I3Tm5LS2dBUldvc0RZcnM1QkFRPT0K",
-                                             "url":  "https://raw.githubusercontent.com/Tokiogame/optimizador-gamer-releases/main/OptimizadorGamer_0.3.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3dIYytNaGpyVWxydDZyU0p2ZytMTk5ScWMzTEIvU09OaFgzVnJEUDBOSnNvZVhaWjhmZWs4WXRWTUZwMjBZNDV1eWhrNjBZZy9tSUtKejFLOCtFWW9OS3hzb1l6TWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODkxMjkxCWZpbGU6T3B0aW1pemFkb3IgR2FtZXJfMC40LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4wCkQ1VGFOZ2pQV2lhTXJpUEVQeEQwV2hoRmkrRGVUQzNaamx5Y0xVT1dQMU9wT3JMR0JhcVRBNU10Uk01RktOM2dtN2J1L0xrMlI2SEdJR1VBc1luK0RRPT0K",
+                                             "url":  "https://raw.githubusercontent.com/Tokiogame/optimizador-gamer-releases/main/OptimizadorGamer_0.4.0_x64-setup.exe"
                                          }
                   }
 }
