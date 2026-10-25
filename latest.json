@@ -1,12 +1,12 @@
 {
-    "version":  "0.4.0",
-    "notes":  "Modo Gaming y Discord gratis en la prueba; Esenciales, ReShade y liberar todo en los planes de pago.",
-    "mandatory":  true,
-    "pub_date":  "2026-10-25T01:21:31Z",
+    "version":  "0.5.0",
+    "notes":  "Nueva sección Limpieza de Windows: quita apps y telemetría que no usas, repara lo que otros programas dejaron roto y ajustes gamer opcionales.",
+    "mandatory":  false,
+    "pub_date":  "2026-10-25T21:55:11Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3dIYytNaGpyVWxydDZyU0p2ZytMTk5ScWMzTEIvU09OaFgzVnJEUDBOSnNvZVhaWjhmZWs4WXRWTUZwMjBZNDV1eWhrNjBZZy9tSUtKejFLOCtFWW9OS3hzb1l6TWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODkxMjkxCWZpbGU6T3B0aW1pemFkb3IgR2FtZXJfMC40LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4wCkQ1VGFOZ2pQV2lhTXJpUEVQeEQwV2hoRmkrRGVUQzNaamx5Y0xVT1dQMU9wT3JMR0JhcVRBNU10Uk01RktOM2dtN2J1L0xrMlI2SEdJR1VBc1luK0RRPT0K",
-                                             "url":  "https://raw.githubusercontent.com/Tokiogame/optimizador-gamer-releases/main/OptimizadorGamer_0.4.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3dIYytNaGpyVWlCeG0wZGxia2c5SnY0QTlBYitCNW1LWk5id3U0NmtPZGFIU283d2RSN29SZ3M5Y3ZEZDJhZzFDRExQNHRvL0VPM1lBaEZkeWVDcklTcTh3Vmh2b3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTY1MzExCWZpbGU6T3B0aW1pemFkb3IgR2FtZXJfMC41LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4wCm4yTHQ1djVQdHBHVHZvOUp1TFQ4d0hDcmp6Mmt6NE5KT1N4Nnp1UjBLUUpVcm5aK1lveFBhd3lHbVlzV1IwdnQrR1JNaWZ2OHVFMnB4YXZjaFY2MkNBPT0K",
+                                             "url":  "https://raw.githubusercontent.com/Tokiogame/optimizador-gamer-releases/main/OptimizadorGamer_0.5.0_x64-setup.exe"
                                          }
                   }
 }
