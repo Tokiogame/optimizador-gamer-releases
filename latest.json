@@ -1,12 +1,12 @@
 {
-    "version":  "0.5.0",
-    "notes":  "Nueva sección Limpieza de Windows: quita apps y telemetría que no usas, repara lo que otros programas dejaron roto y ajustes gamer opcionales.",
+    "version":  "0.5.1",
+    "notes":  "Procesos: cierra bien Photoshop y Adobe, reconoce 30+ apps (Wallpaper Engine, Overwolf, torrents, RGB) y avisa si una app se vuelve a abrir sola",
     "mandatory":  false,
-    "pub_date":  "2026-10-25T21:55:11Z",
+    "pub_date":  "2026-10-28T03:38:51Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3dIYytNaGpyVWlCeG0wZGxia2c5SnY0QTlBYitCNW1LWk5id3U0NmtPZGFIU283d2RSN29SZ3M5Y3ZEZDJhZzFDRExQNHRvL0VPM1lBaEZkeWVDcklTcTh3Vmh2b3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTY1MzExCWZpbGU6T3B0aW1pemFkb3IgR2FtZXJfMC41LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4wCm4yTHQ1djVQdHBHVHZvOUp1TFQ4d0hDcmp6Mmt6NE5KT1N4Nnp1UjBLUUpVcm5aK1lveFBhd3lHbVlzV1IwdnQrR1JNaWZ2OHVFMnB4YXZjaFY2MkNBPT0K",
-                                             "url":  "https://raw.githubusercontent.com/Tokiogame/optimizador-gamer-releases/main/OptimizadorGamer_0.5.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3dIYytNaGpyVWpKY3dxZ0xEbmJsWWQzeHl1MGhRL1QxNWpLd3BvTkthdXJ0bFR6cjhhbXNlK0tIK3pHazlSUi9sT2UzUXBwSDhZc3kyT2NBcGlxTXlTOWdCejFnaVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTU4NzMxCWZpbGU6T3B0aW1pemFkb3IgR2FtZXJfMC41LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4xCnhmOVk0U1FQMHVNSDM5aGNmUDgyeGJTNk9BOHZYNXRKRzJBN0RRUTVwaFJucWlRYWM5QWsxaWVrVHNoNXMxMk1vNC9NMEVaOG5JYXNvbmRVOXhwdENBPT0K",
+                                             "url":  "https://raw.githubusercontent.com/Tokiogame/optimizador-gamer-releases/main/OptimizadorGamer_0.5.1_x64-setup.exe"
                                          }
                   }
 }
